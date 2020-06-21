@@ -8,7 +8,7 @@
 - **client** 
 - **comics**
 - **author** 
-  - **comic_author** вторичный ключи  *commic_id* и *author_id*   
+  - **comic_author** вторичный ключи  *comic_id* и *author_id*   
 - **empolyees**
 - **rent** вторичные ключи *employee_id*, *client_id*  и *comics_id*
 
